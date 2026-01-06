@@ -31,7 +31,7 @@ const Projects: React.FC = () => {
       id: 1,
       title: 'TCS - Car Insurance Premium Scorecard',
       description: 'A driver behavior monitoring system using YOLOv8 for vehicle detection and LLaMA-based AI for risk scoring, with real-time alerts and speed data sent via JSON to Cloud APIs and stored in MongoDB for analytics.',
-      image: "public/pr1.png",
+      image: "pr1.png",
       category: 'API',
       technologies: ['Python', 'YOLOv8', ' MongoDB', 'LlaMa', 'Streamlit', 'Twilios & Groq APIs'],
       demoUrl: '#',
